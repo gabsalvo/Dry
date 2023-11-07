@@ -26,7 +26,7 @@ Sistema antialluvione basato su IoT per la prevenzione del territorio e della vi
 
 ## Fase 5: Preparazione per la Scalabilità
 
-- **Valutazione per l'Espansione**: Valutare le necessità per scalare il sistema, compresa l'integrazione con il controllo satellitare.
+- **Valutazione per l'Espansione**: Valutare le necessità per scalare il sistema, compresa l'integrazione con il controllo satellitare (MindEarth ci è amica qui).
 - **Piani di Scalabilità**: Stabilire piani per aumentare la copertura geografica e le funzionalità del sistema.
 
 ## Fase 6: Integrazione del Controllo Satellitare
@@ -34,12 +34,11 @@ Sistema antialluvione basato su IoT per la prevenzione del territorio e della vi
 - **Integrazione con Satelliti**: Pianificare l'integrazione con il monitoraggio satellitare una volta che l'MVP è stabile.
 - **Analisi Avanzata**: Implementare algoritmi per analizzare le immagini satellitari e integrarle con i dati IoT.
 
-## Fase 7: Feedback e Iterazione
+## Fase 7: Creazione Barriere
+
+- **Barriere automatiche**: Installazione barriere camouflage che non deturpano il paesaggio tipo sui lungarni
+
+## Fase 8: Feedback e Iterazione
 
 - **Raccolta Feedback**: Ottenere feedback continuo dalle parti interessate.
 - **Iterazione del Sistema**: Aggiornare e migliorare il sistema basandosi sul feedback raccolto.
-
-## Considerazioni Finali
-
-- **Conformità Normativa**: Assicurarsi che il sistema sia conforme alle normative sulla privacy e protezione dei dati.
-- **Strategia di Comunicazione**: Mantenere un dialogo aperto con le parti interessate e gli utenti finali attraverso una comunicazione efficace.
